@@ -3,11 +3,16 @@
 
 ## About
 This is a boiler plate project for quick setup of a pixi.js application
-## Boiler plates
+
+## Boilerplates
 Each boilerplate has its own dedicated branch.
-### Current boilerplate branches 
+
+### Current boilerplate branches
+
 	- main branch => general Pixi.js GSAP Howler application starter boilerplate
+
 	-  pixi-js-game-boilerplate => Pixi.js game starter boilerplate
+
 ## How to run the project
 >
 	SCRIPTS
