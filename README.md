@@ -2,7 +2,7 @@
 **v0.0**
 
 ## About
-This is a boiler plate project for quick setup of a pixi.js game
+This is a boiler plate project for quick setup of a pixi.js application
 ## How to run the project
 >
 	SCRIPTS
