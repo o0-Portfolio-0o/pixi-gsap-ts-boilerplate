@@ -1,5 +1,5 @@
 {
-  "name": "puzzle",
+  "name": "pixijs game boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
